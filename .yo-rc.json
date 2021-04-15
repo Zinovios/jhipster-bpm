@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.ippon.jhipster.bpm",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "jhipsterbpm",
+    "packageName": "fr.ippon.jhipster.bpm",
+    "packageFolder": "fr/ippon/jhipster/bpm",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "redis",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTVhZGY2YzkzOTM3MTM5Nzc1NjZkZDc3MjdmNDczYjg1ZGM2YWM3YzhhNWI5ZTFkYTE5Y2FhNjBkMThmMDkwYzg2MTA3MTgwNjFmNzk4N2UyNDAwYmRhNzU2YjFiNDVmMzJkMjliYzA4M2VmNzQwMmIzMzY5NTc2ZjMwMzA3Njc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "superhero",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1618521886035,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "en"],
+    "blueprints": []
+  }
+}
